@@ -6,6 +6,13 @@ a cli for create new flask project
 
 inspired by https://lepture.com/en/2018/structure-of-a-flask-project
 
+## install
+
+```bash
+git clone https://github.com/damonchen/fcli
+python setup.py install
+```
+
 
 ## command
 
@@ -13,4 +20,4 @@ inspired by https://lepture.com/en/2018/structure-of-a-flask-project
 fcli new ${project_name}
 ```
 
-将上述${project}替换你自己的名称
+将上述${project_name}替换你自己的工程
